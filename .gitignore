@@ -1,0 +1,9 @@
+count
+bigfile.bin
+*.o
+*.a
+*.so
+app_static
+app_dynamic
+3-devices/winsize
+.DS_Store
